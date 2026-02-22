@@ -17,4 +17,4 @@ Serve the files using a local development server (like VS Code Live Server) so t
 
 Watch the demo video here:
 
-https://github.com/Ahmedtarekmekled/board_pen/raw/main/public/pen.mp4
+![Demo Video](public/demo.gif)
