@@ -15,4 +15,6 @@ Serve the files using a local development server (like VS Code Live Server) so t
 
 ## Demo
 
-Watch the demo video here: [pen.mp4](public/pen.mp4)
+Watch the demo video here:
+
+<video src="https://github.com/Ahmedtarekmekled/board_pen/raw/main/public/pen.mp4" controls="controls" muted="muted" playsinline="playsinline" style="max-width: 100%;"></video>
